@@ -1,9 +1,0 @@
-# PDF files
-*.pdf
-
-# Microsoft Word files
-*.docx
-
-
-
-
